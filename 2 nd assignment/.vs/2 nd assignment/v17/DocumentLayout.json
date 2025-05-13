@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|c:\\users\\patha\\onedrive\\desktop\\2 nd assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|c:\\users\\patha\\onedrive\\desktop\\2 nd assignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|c:\\users\\patha\\onedrive\\desktop\\2 nd assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|c:\\users\\patha\\onedrive\\desktop\\2 nd assignment\\migrations\\20250513131218_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|solutionrelative:migrations\\20250513131218_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|c:\\users\\patha\\onedrive\\desktop\\2 nd assignment\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|c:\\users\\patha\\onedrive\\desktop\\2 nd assignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7694E8-18CF-49E9-892E-0EA8D4A001CE}|2 nd assignment.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:22:47.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250513131218_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\Migrations\\20250513131218_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250513131218_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\Migrations\\20250513131218_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250513131218_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:12:18.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T13:10:27.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:08:07.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:09:32.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\2 nd assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:07:51.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
